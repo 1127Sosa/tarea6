@@ -1,0 +1,17 @@
+.contenedor {
+    background:#54535352;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 7px;
+    margin-top: 128px;
+    height: 30px;
+    }
+    
+    .copy {
+        color: black;
+        font-weight:lighter;
+        letter-spacing: 1px;
+        font-size:13px ;
+    }
+ 
